@@ -1,0 +1,2 @@
+## DATA PROJECTS
+This is a repo with data projects I work on to test/practise my data analysis and data science skills. The projects are mainly based on datasets from Kaggle and other sources. The projects include data cleaning, data visualization, statistical analysis, and machine learning models.
