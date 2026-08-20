@@ -6,9 +6,9 @@ Naive Bayes is a probabilistic machine learning algorithm based on Bayes' theore
 
 ### Bayes Theorem Formula
 The formula for Bayes' theorem is as follows:
-'''
+```
 P(A|B) = (P(B|A) * P(A)) / P(B)
-'''
+```
 Where:
 - P(A|B) is the posterior probability of event A given evidence B.
 - P(B|A) is the likelihood of evidence B given that event A has occurred.
